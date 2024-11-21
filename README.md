@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Js Projects**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Native Expo**
 
 - 👨‍💻 All of my projects are available at [https://khizaralidevportfolio.netlify.app/](https://khizaralidevportfolio.netlify.app/)
 
